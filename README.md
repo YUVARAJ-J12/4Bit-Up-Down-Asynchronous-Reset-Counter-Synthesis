@@ -1,5 +1,5 @@
 
-<h1>4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis</h1>
+<h1>EXP-4: 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis</h1>
 
 ## Aim:
 
