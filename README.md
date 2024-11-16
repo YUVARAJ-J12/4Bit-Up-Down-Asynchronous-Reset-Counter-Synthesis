@@ -12,6 +12,7 @@ Synthesis: Genus
 
 ### Step 1: Getting Started
 
+
 Synthesis requires three files as follows,
 
 ◦ Liberty Files (.lib)
@@ -20,7 +21,9 @@ Synthesis requires three files as follows,
 
 ◦ SDC (Synopsis Design Constraint) File (.sdc)
 
+
  ### Step 2 : Creating an SDC File
+ 
 
 •	In your terminal type “gedit input_constraints.sdc” to create an SDC File if you do not have one.
 
@@ -46,7 +49,9 @@ iv → Sets Clock Uncertainty to 10ps.
 
 v, vi → Sets the maximum limit for I/O port delay to 1ps.
 
+
 ### Step 3 : Performing Synthesis
+
 
 The Liberty files are present in the library path,
 
@@ -62,6 +67,7 @@ used.
 • The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
+
 
 #### Synthesis RTL Schematic :
 
